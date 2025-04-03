@@ -1,0 +1,56 @@
+/*!***********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/app/dashboard/users/user.module.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************/
+.user_userContainer__Uvzlz{
+    /* border: 1px solid red; */
+    padding: 1rem;
+    margin-top: 2rem;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    flex-direction: column;
+}
+.user_button__hg5V_{
+    background-color: rgb(67, 67, 255);
+    color: white;
+    width: 8rem;
+    border: none;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    float: right;
+    margin-bottom: 1rem;
+    cursor: pointer;
+}
+.user_table__fo6BB {
+    width: 95%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+.user_th__f_noN, .user_td__ZARlS {
+    padding: 12px;
+    /* border: 1px solid #ddd; */
+    text-align: center;
+    border-radius: 0.1rem;
+}
+.user_th__f_noN {
+    background-color: #f2f2f2;
+    color: black;
+}
+/* .tr:nth-child(even) {
+    background-color: #f9f9f9;
+} */
+/* .tr:hover {
+    background-color: #f1f1f1;
+} */
+.user_caption__tHUME {
+    caption-side: top;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.user_td__ZARlS{
+    padding: 1rem;
+    background-color: var(--bgSoft);
+
+    /* border: 1px solid yellow; */
+}

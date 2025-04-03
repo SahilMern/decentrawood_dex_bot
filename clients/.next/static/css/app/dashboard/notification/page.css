@@ -1,0 +1,66 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/app/dashboard/notification/notification.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************/
+.notification_container__UWRVQ{
+    /* border: 1px solid gray; */
+    margin-top: 2rem;
+    min-height: 80vh;
+    padding: 1rem;
+}
+.notification_button__Fo_Ft{
+    padding: 0.5rem;
+    border: none;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+    border-radius: 0.2rem;
+    cursor: pointer;
+    float: right;
+  }
+
+.notification_seenAll__SW87H{
+    background-color: rgb(15, 255, 179);
+    color: white;
+}
+  
+.notification_deleteAll__UVxde{
+    background-color: rgb(255, 31, 31);
+    color: white;
+}
+  .notification_table__CYUeF {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .notification_table__CYUeF th,
+  .notification_table__CYUeF td {
+    padding: 15px;
+    background-color: var(--bgSoft);
+  }
+  
+  .notification_table__CYUeF th {
+    background-color: #f2f2f2;
+    text-align: left;
+    color: black;
+
+  }
+  
+
+  .notification_buy__P_7Nn {
+    background-color: red;
+    border: none;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    width: max-content;
+    color: white;
+  }
+  
+  .notification_sell__qWnZd {
+    background-color: green;
+    border: none;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    width: max-content;
+    color: white;
+  }
+
+ 
